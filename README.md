@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mohamedheikal29
-- 👀 I’m interested in D365 F&O x++, C#, Python, TypeScript, and Hacking
-- 🌱 I’m currently learning TypeScript
+- Hi, I’m @mohamedheikal29
+- I’m interested in designing and building distributed systems
+- I do software architecture, UX design, front end and back end development
 - 📫 You can reach me via E-mail: mohamedheikal2905@outlook.com
 
 <!---
