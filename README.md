@@ -1,4 +1,6 @@
-- Hi, I’m @mohamedheikal29
+- Hi, I’m Mohamed Heikal
+- A senior electronics / software engineer.
+- I do PCB designs.
 - I’m interested in designing and building distributed systems
 - I do software architecture, UX design, front end and back end development
 - 📫 You can reach me via E-mail: mohamedheikal2905@outlook.com
